@@ -30,3 +30,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem 's3_website', '~> 2.16.0'
 
+gem 'rake', '~> 11.3.0'
+
